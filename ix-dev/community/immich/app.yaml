@@ -1,6 +1,6 @@
 annotations:
   min_scale_version: 24.10.2.2
-app_version: v2.7.0
+app_version: v3.2.2
 capabilities: []
 categories:
 - media
@@ -14,8 +14,8 @@ icon: https://media.sys.truenas.net/apps/immich/icons/icon.svg
 keywords:
 - photos
 - backup
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.4
+lib_version_hash: 2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -44,8 +44,9 @@ run_as_context:
   user_name: Host user is [root]
 screenshots: []
 sources:
-- https://immich.app
+- https://apps.truenas.com/catalog/immich_community/
 - https://github.com/immich-app/immich
+- https://immich.app
 title: Immich
 train: community
-version: 1.14.8
+version: 1.14.39

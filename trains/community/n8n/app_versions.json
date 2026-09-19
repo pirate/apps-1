@@ -1,18 +1,18 @@
 {
-    "1.10.18": {
+    "1.10.121": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/n8n/1.10.18",
-        "last_update": "2026-04-07 18:46:43",
+        "location": "/__w/apps/apps/trains/community/n8n/1.10.121",
+        "last_update": "2026-09-18 15:06:38",
         "required_features": [],
-        "human_version": "2.16.0_1.10.18",
-        "version": "1.10.18",
+        "human_version": "2.40.3_1.10.121",
+        "version": "1.10.121",
         "app_metadata": {
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "2.16.0",
+            "app_version": "2.40.3",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -27,8 +27,8 @@
                 "workflows",
                 "automation"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -74,12 +74,13 @@
                 "https://media.sys.truenas.net/apps/n8n/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://github.com/n8n-io/n8n",
-                "https://ghcr.io/n8n-io/n8n"
+                "https://apps.truenas.com/catalog/n8n_community/",
+                "https://ghcr.io/n8n-io/n8n",
+                "https://github.com/n8n-io/n8n"
             ],
             "title": "n8n",
             "train": "community",
-            "version": "1.10.18"
+            "version": "1.10.121"
         },
         "schema": {
             "groups": [
@@ -1383,7 +1384,7 @@
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "2.16.0",
+            "app_version": "2.40.3",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -1398,8 +1399,8 @@
                 "workflows",
                 "automation"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1445,12 +1446,13 @@
                 "https://media.sys.truenas.net/apps/n8n/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://github.com/n8n-io/n8n",
-                "https://ghcr.io/n8n-io/n8n"
+                "https://apps.truenas.com/catalog/n8n_community/",
+                "https://ghcr.io/n8n-io/n8n",
+                "https://github.com/n8n-io/n8n"
             ],
             "title": "n8n",
             "train": "community",
-            "version": "1.10.18"
+            "version": "1.10.121"
         }
     }
 }

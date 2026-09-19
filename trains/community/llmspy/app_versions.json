@@ -1,15 +1,15 @@
 {
-    "1.1.9": {
+    "1.1.30": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/llmspy/1.1.9",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/llmspy/1.1.30",
+        "last_update": "2026-09-02 13:53:36",
         "required_features": [],
-        "human_version": "3.0.42_1.1.9",
-        "version": "1.1.9",
+        "human_version": "4.0.16_1.1.30",
+        "version": "1.1.30",
         "app_metadata": {
-            "app_version": "3.0.42",
+            "app_version": "4.0.16",
             "capabilities": [],
             "categories": [
                 "ai"
@@ -27,8 +27,8 @@
                 "openai",
                 "api"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -52,11 +52,12 @@
                 "https://media.sys.truenas.net/apps/llmspy/screenshots/screenshot3.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/llmspy_community/",
                 "https://github.com/ServiceStack/llms"
             ],
             "title": "llms.py",
             "train": "community",
-            "version": "1.1.9"
+            "version": "1.1.30"
         },
         "schema": {
             "groups": [
@@ -1005,7 +1006,7 @@
         "readme": "<h1>llms.py</h1> <p><a href=\"https://llmspy.org/\">llms.py</a> is a lightweight OpenAI-compatible gateway for multiple LLM providers including OpenRouter, Ollama, OpenAI, Anthropic, Google, Grok, Groq, and more.</p>",
         "changelog": null,
         "chart_metadata": {
-            "app_version": "3.0.42",
+            "app_version": "4.0.16",
             "capabilities": [],
             "categories": [
                 "ai"
@@ -1023,8 +1024,8 @@
                 "openai",
                 "api"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1048,11 +1049,12 @@
                 "https://media.sys.truenas.net/apps/llmspy/screenshots/screenshot3.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/llmspy_community/",
                 "https://github.com/ServiceStack/llms"
             ],
             "title": "llms.py",
             "train": "community",
-            "version": "1.1.9"
+            "version": "1.1.30"
         }
     }
 }

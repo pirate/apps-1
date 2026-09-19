@@ -1,4 +1,4 @@
-app_version: 4.15.0
+app_version: 4.19.0
 capabilities: []
 categories:
 - storage
@@ -12,8 +12,8 @@ icon: https://media.sys.truenas.net/apps/cloudreve/icons/icon.svg
 keywords:
 - file management
 - file sharing
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.9
+lib_version_hash: a8673072613a14c3b5468881b4912f7bb4c789ed663c142e2e9aa0a12d7ed101
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -47,7 +47,8 @@ run_as_context:
   user_name: Host user is [apps]
 screenshots: []
 sources:
+- https://apps.truenas.com/catalog/cloudreve_community/
 - https://github.com/cloudreve/Cloudreve
 title: Cloudreve
 train: community
-version: 1.0.0
+version: 1.0.48

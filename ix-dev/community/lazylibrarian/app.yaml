@@ -1,4 +1,4 @@
-app_version: 78812bc7-ls271
+app_version: 0e5e6c28-ls353
 capabilities:
 - description: LazyLibrarian is able to change file ownership arbitrarily
   name: CHOWN
@@ -22,8 +22,8 @@ icon: https://media.sys.truenas.net/apps/lazylibrarian/icons/icon.webp
 keywords:
 - media
 - ebooks
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.4
+lib_version_hash: 2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -36,8 +36,9 @@ run_as_context:
   uid: 0
   user_name: Host user is [root]
 sources:
+- https://apps.truenas.com/catalog/lazylibrarian_community/
 - https://github.com/linuxserver/docker-lazylibrarian
 - https://gitlab.com/LazyLibrarian/LazyLibrarian
 title: LazyLibrarian
 train: community
-version: 1.1.19
+version: 1.1.84

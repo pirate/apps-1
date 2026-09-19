@@ -1,15 +1,15 @@
 {
-    "1.1.45": {
+    "1.1.156": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/jackett/1.1.45",
-        "last_update": "2026-04-07 18:46:43",
+        "location": "/__w/apps/apps/trains/community/jackett/1.1.156",
+        "last_update": "2026-09-18 15:06:38",
         "required_features": [],
-        "human_version": "0.24.1552_1.1.45",
-        "version": "1.1.45",
+        "human_version": "0.24.2605_1.1.156",
+        "version": "1.1.156",
         "app_metadata": {
-            "app_version": "0.24.1552",
+            "app_version": "0.24.2605",
             "capabilities": [],
             "categories": [
                 "media"
@@ -23,8 +23,8 @@
             "keywords": [
                 "indexer"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -44,12 +44,13 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/jackett_community/",
                 "https://github.com/Jackett/Jackett",
                 "https://github.com/home-operations/containers/tree/main/apps/jackett"
             ],
             "title": "Jackett",
             "train": "community",
-            "version": "1.1.45"
+            "version": "1.1.156"
         },
         "schema": {
             "groups": [
@@ -942,7 +943,7 @@
         "readme": "<h1>Jackett</h1> <p><a href=\"https://github.com/Jackett/Jackett\">Jackett</a> is a free and open source API supported by your favorite torrent trackers.</p>",
         "changelog": null,
         "chart_metadata": {
-            "app_version": "0.24.1552",
+            "app_version": "0.24.2605",
             "capabilities": [],
             "categories": [
                 "media"
@@ -956,8 +957,8 @@
             "keywords": [
                 "indexer"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -977,12 +978,13 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/jackett_community/",
                 "https://github.com/Jackett/Jackett",
                 "https://github.com/home-operations/containers/tree/main/apps/jackett"
             ],
             "title": "Jackett",
             "train": "community",
-            "version": "1.1.45"
+            "version": "1.1.156"
         }
     }
 }

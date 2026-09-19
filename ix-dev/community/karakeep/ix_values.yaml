@@ -1,16 +1,16 @@
 images:
   image:
     repository: ghcr.io/karakeep-app/karakeep
-    tag: 0.31.0
+    tag: 0.33.2
   container_utils_image:
     repository: ixsystems/container-utils
     tag: 1.0.2
   meilisearch_image:
     repository: getmeili/meilisearch
-    tag: "v1.41.0"
+    tag: "v1.53.2"
   chrome_image:
-    repository: gcr.io/zenika-hub/alpine-chrome
-    tag: "124"
+    repository: ghcr.io/karakeep-app/karakeep-chrome
+    tag: "151.0.7922.47-r1"
 
 consts:
   karakeep_container_name: karakeep

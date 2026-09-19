@@ -1,18 +1,18 @@
 {
-    "1.4.7": {
+    "1.4.22": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/autobrr/1.4.7",
-        "last_update": "2026-04-07 18:46:43",
+        "location": "/__w/apps/apps/trains/community/autobrr/1.4.22",
+        "last_update": "2026-09-10 16:06:55",
         "required_features": [],
-        "human_version": "v1.76.0_1.4.7",
-        "version": "1.4.7",
+        "human_version": "v1.86.0_1.4.22",
+        "version": "1.4.22",
         "app_metadata": {
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "v1.76.0",
+            "app_version": "v1.86.0",
             "capabilities": [],
             "categories": [
                 "media"
@@ -28,8 +28,8 @@
                 "torrent",
                 "usenet"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -49,12 +49,13 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/autobrr_community/",
                 "https://autobrr.com/installation/docker",
                 "https://github.com/autobrr/autobrr"
             ],
             "title": "Autobrr",
             "train": "community",
-            "version": "1.4.7"
+            "version": "1.4.22"
         },
         "schema": {
             "groups": [
@@ -1094,7 +1095,7 @@
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "v1.76.0",
+            "app_version": "v1.86.0",
             "capabilities": [],
             "categories": [
                 "media"
@@ -1110,8 +1111,8 @@
                 "torrent",
                 "usenet"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1131,12 +1132,13 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/autobrr_community/",
                 "https://autobrr.com/installation/docker",
                 "https://github.com/autobrr/autobrr"
             ],
             "title": "Autobrr",
             "train": "community",
-            "version": "1.4.7"
+            "version": "1.4.22"
         }
     }
 }

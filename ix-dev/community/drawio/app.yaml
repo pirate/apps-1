@@ -1,6 +1,6 @@
 annotations:
   min_scale_version: 24.10.2.2
-app_version: 29.6.10
+app_version: 31.4.6
 capabilities: []
 categories:
 - productivity
@@ -13,8 +13,8 @@ icon: https://media.sys.truenas.net/apps/drawio/icons/icon.png
 keywords:
 - diagram
 - whiteboard
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.4
+lib_version_hash: 2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -31,8 +31,9 @@ screenshots:
 - https://media.sys.truenas.net/apps/drawio/screenshots/screenshot2.png
 - https://media.sys.truenas.net/apps/drawio/screenshots/screenshot3.png
 sources:
-- https://hub.docker.com/r/jgraph/drawio
+- https://apps.truenas.com/catalog/drawio_community/
 - https://github.com/jgraph/drawio
+- https://hub.docker.com/r/jgraph/drawio
 title: Draw.io
 train: community
-version: 1.4.12
+version: 1.4.42

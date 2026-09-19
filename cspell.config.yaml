@@ -1,5 +1,7 @@
 words:
   - 2fauth
+  - ACPI
+  - actuallyfreecd
   - adguard
   - adventurelog
   - aiostreams
@@ -15,10 +17,12 @@ words:
   - archisteamfarm
   - archivebox
   - archiver
+  - arrvantage
   - arti
   - asigra
   - audiobook
   - audiobookshelf
+  - audiomuse
   - authelia
   - authentik
   - autobrr
@@ -26,8 +30,10 @@ words:
   - autoupdate
   - autoxpose
   - backblaze
+  - bambuddy
   - baserow
   - bazarr
+  - bearbinary
   - bentopdf
   - beszel
   - bichon
@@ -38,8 +44,10 @@ words:
   - bitmonero
   - bitnami
   - blakeblackshear
+  - blinko
   - blocklist
   - bookdrop
+  - bookorbit
   - borgwarehouse
   - boxarr
   - briefkasten
@@ -47,17 +55,23 @@ words:
   - byparr
   - c4illin
   - caddyfile
+  - calagopus
+  - cantinarr
   - castopod
   - changedetection
   - changeip
   - chatwoot
   - chrislusf
+  - chromadb
   - chromedp
   - chunksize
   - cifs
+  - cinedock
+  - cinefind
   - clamav
   - clamd
   - cleanuparr
+  - clonarr
   - cloudbeaver
   - cloudflared
   - cloudreve
@@ -81,6 +95,7 @@ words:
   - datasources
   - dawarich
   - dbeaver
+  - dbrepairs
   - dbus
   - ddns
   - ddnss
@@ -88,6 +103,7 @@ words:
   - devbox
   - dgtlmoon
   - dialout
+  - dinit
   - directus
   - diskover
   - diskoverdata
@@ -97,6 +113,7 @@ words:
   - dnspod
   - dockge
   - dockpeek
+  - dockroute
   - docspell
   - documentserver
   - domeneshop
@@ -106,6 +123,7 @@ words:
   - dozzle
   - drawio
   - dreamhost
+  - dropgate
   - duckdns
   - duplicati
   - dxflrs
@@ -120,6 +138,8 @@ words:
   - endmacro
   - endswith
   - esphome
+  - eturnal
+  - eurooffice
   - evcc
   - excalidraw
   - factorio
@@ -134,6 +154,7 @@ words:
   - fireshare
   - fladder
   - flaresolverr
+  - fliks
   - forgejo
   - fowner
   - freedns
@@ -144,12 +165,15 @@ words:
   - ftlconf
   - ftpd
   - funcs
+  - futo
+  - gameyfin
   - gandi
   - gaseousgames
   - gatus
   - gdrive
   - gensalt
   - getmeili
+  - ghostfolio
   - gitea
   - globalping
   - godaddy
@@ -157,6 +181,7 @@ words:
   - goipde
   - gotenberg
   - gotify
+  - gptwol
   - graalvm
   - grampsdb
   - grampsweb
@@ -171,22 +196,28 @@ words:
   - healthchecks
   - healthz
   - hetzner
+  - hetznercloud
   - hexparrot
   - hmac
   - homarr
   - homebox
+  - homelab
   - hoppscotch
   - hostable
   - htauth
   - htpasswd
   - htsp
+  - huggingface
   - huntarr
   - hyos
   - hytale
   - icanhazip
   - iconik
   - igdb
+  - imap
   - immich
+  - immichframe
+  - infraprovider
   - initdb
   - inkl
   - invoiceninja
@@ -204,6 +235,7 @@ words:
   - itzg
   - ixsystems
   - jackett
+  - janus
   - jaymoulin
   - jdownloader
   - jellyfin
@@ -213,6 +245,7 @@ words:
   - jenkins
   - jesec
   - jlesage
+  - jmap
   - joex
   - jorenn
   - kapowarr
@@ -220,6 +253,7 @@ words:
   - kasm
   - kavita
   - keepalive
+  - keeyo
   - kemal
   - keyfile
   - keyframes
@@ -232,10 +266,12 @@ words:
   - kuma
   - lancache
   - lancachenet
+  - languagetool
   - laravel
   - lazylibrarian
   - ldaps
   - librechat
+  - libredb
   - libsmbclient
   - lidarr
   - linkding
@@ -268,6 +304,7 @@ words:
   - meilisearch
   - meshcentral
   - metasearch
+  - metatana
   - metube
   - microcontrollers
   - mikefarah
@@ -279,6 +316,7 @@ words:
   - mkfd
   - mkvtoolnix
   - mnmd
+  - momentbackup
   - monero
   - monerod
   - monitee
@@ -303,10 +341,15 @@ words:
   - netcat
   - netcup
   - netdata
+  - netscope
   - nevu
+  - nexdeck
+  - nexmail
   - nextauth
   - nextcloud
   - nextpvr
+  - nexview
+  - ngrams
   - njalla
   - nnev
   - nocodb
@@ -317,21 +360,28 @@ words:
   - npmplus
   - ntfy
   - nxzai
+  - nzbfast
   - nzbget
   - ocrmypdf
   - octoprint
   - odoo
+  - oikos
   - ollama
   - omada
+  - omni
+  - omnictl
   - omnom
   - onepassword
   - onlyoffice
+  - onvif
   - opcache
   - openai
   - openarchiver
   - openclaw
   - opencloud
   - opendns
+  - openfamily
+  - openhabittracker
   - openj
   - openspeedtest
   - openuem
@@ -344,7 +394,9 @@ words:
   - papra
   - passbolt
   - passcode
+  - pastebin
   - pecl
+  - peertube
   - penpot
   - perfmon
   - pgadmin
@@ -360,6 +412,7 @@ words:
   - pihole
   - pipefail
   - piwigo
+  - plainnvr
   - planka
   - plankanban
   - plexinc
@@ -368,6 +421,8 @@ words:
   - porkbun
   - portracker
   - postgis
+  - powerbeacon
+  - poznote
   - predeploy
   - profilarr
   - prowlarr
@@ -378,10 +433,12 @@ words:
   - pulsarr
   - pwuser
   - qbittorrent
+  - qdrant
   - quic
   - rackula
   - radarr
   - radicale
+  - ratelog
   - rawio
   - rcat
   - rclone
@@ -390,6 +447,7 @@ words:
   - readarr
   - realpath
   - recyclarr
+  - remux
   - requestrr
   - restic
   - retrom
@@ -397,6 +455,7 @@ words:
   - rocm
   - romm
   - rommapp
+  - rotki
   - roundcube
   - rprivate
   - rshared
@@ -410,9 +469,12 @@ words:
   - rustfs
   - ryshe
   - sabnzbd
+  - scaleway
   - scandir
   - scrollbars
   - scrypted
+  - seadoc
+  - seafile
   - searxng
   - seaweedfs
   - seccomp
@@ -441,35 +503,46 @@ words:
   - shoutrrr
   - sickgear
   - sidekiq
+  - sidero
   - sigdb
   - signup
   - slskd
   - smbclient
+  - snapotter
   - snappdf
   - snmd
   - snsd
+  - socat
   - socketdir
   - sonarr
   - soulseek
+  - sparkyfitness
   - spdyn
   - splitpro
+  - sportarr
   - spotnet
   - spottar
   - spottarr
+  - spreed
   - stacklok
   - startpage
   - startswith
   - stashapp
   - stdapi
+  - stlquest
   - storagenode
   - storjlabs
   - strato
   - subquestions
+  - subsimail
+  - supervisord
+  - swiparr
   - syncthing
   - sysadminsmedia
   - sysctls
   - tailscale
   - tailscaled
+  - talos
   - tandoor
   - tautulli
   - tdarr
@@ -478,6 +551,7 @@ words:
   - tensorchord
   - tensorrt
   - termix
+  - teslamate
   - tesseract
   - tftpboot
   - tftpd
@@ -492,6 +566,8 @@ words:
   - traccar
   - tracearr
   - tracebacklimit
+  - tracefinity
+  - travelbuff
   - trilium
   - triliumnext
   - trixie
@@ -503,28 +579,37 @@ words:
   - twofactor
   - twofauth
   - typesense
+  - UEFI
   - umami
+  - umlautadaptarrex
   - unifi
   - unmanic
   - unpackerr
   - urbackup
   - userspace
   - utmp
+  - vaapi
   - valkey
   - variomedia
+  - vaultbridge
   - vaultwarden
   - vectorchord
+  - vercel
   - versity
   - versitygw
   - vhost
   - vikunja
   - vitransfer
+  - vllm
   - wabayang
+  - wallabag
   - warracker
+  - wealthfolio
   - webapi
   - webauthn
   - webdav
   - webdavd
+  - webmail
   - webrtc
   - webui
   - wger
@@ -539,6 +624,8 @@ words:
   - xattr
   - xmrig
   - yamtrack
+  - yunkan
+  - yuvomi
   - zammad
   - zenika
   - zerobyte
@@ -548,4 +635,6 @@ words:
   - zksync
   - zoneedit
   - zoraxy
+  - zpool
+  - zvols
   - zwave

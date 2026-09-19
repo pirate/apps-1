@@ -1,19 +1,19 @@
 images:
   image:
     repository: ghcr.io/we-promise/sure
-    tag: 0.6.9
+    tag: 0.7.4
   container_utils_image:
     repository: ixsystems/container-utils
     tag: 1.0.2
   postgres_18_image:
     repository: postgres
-    tag: 18.3-trixie
+    tag: 18.6-trixie
   postgres_upgrade_image:
     repository: ixsystems/postgres-upgrade
-    tag: 1.2.4
+    tag: 1.2.17
   redis_image:
     repository: valkey/valkey
-    tag: 9.0.3
+    tag: 9.1.2
 
 consts:
   web_container_name: web

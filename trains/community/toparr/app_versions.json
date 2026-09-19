@@ -1,13 +1,13 @@
 {
-    "1.0.4": {
+    "1.0.8": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/toparr/1.0.4",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/toparr/1.0.8",
+        "last_update": "2026-09-18 11:23:14",
         "required_features": [],
-        "human_version": "2.0.0_1.0.4",
-        "version": "1.0.4",
+        "human_version": "2.0.0_1.0.8",
+        "version": "1.0.8",
         "app_metadata": {
             "app_version": "2.0.0",
             "capabilities": [
@@ -37,10 +37,6 @@
             "home": "https://github.com/ajthom90/toparr",
             "host_mounts": [
                 {
-                    "description": "Required for Intel GPU access.",
-                    "host_path": "/dev/dri"
-                },
-                {
                     "description": "Required for GPU client enumeration via debugfs.",
                     "host_path": "/sys/kernel/debug"
                 }
@@ -52,8 +48,8 @@
                 "intel",
                 "hardware"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -75,12 +71,13 @@
                 "https://media.sys.truenas.net/apps/toparr/screenshots/screenshot1.png"
             ],
             "sources": [
-                "https://github.com/ajthom90/toparr",
-                "https://ghcr.io/ajthom90/toparr"
+                "https://apps.truenas.com/catalog/toparr_community/",
+                "https://ghcr.io/ajthom90/toparr",
+                "https://github.com/ajthom90/toparr"
             ],
             "title": "Toparr",
             "train": "community",
-            "version": "1.0.4"
+            "version": "1.0.8"
         },
         "schema": {
             "groups": [
@@ -825,10 +822,6 @@
             "home": "https://github.com/ajthom90/toparr",
             "host_mounts": [
                 {
-                    "description": "Required for Intel GPU access.",
-                    "host_path": "/dev/dri"
-                },
-                {
                     "description": "Required for GPU client enumeration via debugfs.",
                     "host_path": "/sys/kernel/debug"
                 }
@@ -840,8 +833,8 @@
                 "intel",
                 "hardware"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -863,12 +856,13 @@
                 "https://media.sys.truenas.net/apps/toparr/screenshots/screenshot1.png"
             ],
             "sources": [
-                "https://github.com/ajthom90/toparr",
-                "https://ghcr.io/ajthom90/toparr"
+                "https://apps.truenas.com/catalog/toparr_community/",
+                "https://ghcr.io/ajthom90/toparr",
+                "https://github.com/ajthom90/toparr"
             ],
             "title": "Toparr",
             "train": "community",
-            "version": "1.0.4"
+            "version": "1.0.8"
         }
     }
 }

@@ -1,4 +1,4 @@
-app_version: 15.2.2
+app_version: 15.4.0
 capabilities:
 - description: WG Easy is able to perform network administration tasks
   name: NET_ADMIN
@@ -20,8 +20,8 @@ keywords:
 - wireguard
 - network
 - vpn
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.4
+lib_version_hash: 2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -36,7 +36,8 @@ run_as_context:
 screenshots:
 - https://media.sys.truenas.net/apps/wg-easy/screenshots/screenshot1.png
 sources:
+- https://apps.truenas.com/catalog/wg-easy_stable/
 - https://github.com/wg-easy/wg-easy
 title: WG Easy
 train: stable
-version: 2.1.3
+version: 2.1.8

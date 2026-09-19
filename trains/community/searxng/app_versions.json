@@ -1,18 +1,18 @@
 {
-    "1.4.28": {
+    "1.4.116": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/searxng/1.4.28",
-        "last_update": "2026-04-07 18:46:43",
+        "location": "/__w/apps/apps/trains/community/searxng/1.4.116",
+        "last_update": "2026-09-18 15:06:38",
         "required_features": [],
-        "human_version": "2026.4.7-08ef7a63d_1.4.28",
-        "version": "1.4.28",
+        "human_version": "2026.9.18-12df7aed6_1.4.116",
+        "version": "1.4.116",
         "app_metadata": {
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "2026.4.7-08ef7a63d",
+            "app_version": "2026.9.18-12df7aed6",
             "capabilities": [
                 {
                     "description": "SearXNG is able to change group ID of processes",
@@ -35,8 +35,8 @@
             "keywords": [
                 "search"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -63,12 +63,13 @@
             ],
             "screenshots": [],
             "sources": [
-                "https://hub.docker.com/r/searxng/searxng",
-                "https://github.com/searxng/searxng"
+                "https://apps.truenas.com/catalog/searxng_community/",
+                "https://github.com/searxng/searxng",
+                "https://hub.docker.com/r/searxng/searxng"
             ],
             "title": "SearXNG",
             "train": "community",
-            "version": "1.4.28"
+            "version": "1.4.116"
         },
         "schema": {
             "groups": [
@@ -123,7 +124,6 @@
                             {
                                 "variable": "redis_password",
                                 "label": "Redis Password",
-                                "description": "The password for the Redis database.",
                                 "schema": {
                                     "type": "string",
                                     "show_if": [
@@ -944,7 +944,7 @@
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "2026.4.7-08ef7a63d",
+            "app_version": "2026.9.18-12df7aed6",
             "capabilities": [
                 {
                     "description": "SearXNG is able to change group ID of processes",
@@ -967,8 +967,8 @@
             "keywords": [
                 "search"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -995,12 +995,13 @@
             ],
             "screenshots": [],
             "sources": [
-                "https://hub.docker.com/r/searxng/searxng",
-                "https://github.com/searxng/searxng"
+                "https://apps.truenas.com/catalog/searxng_community/",
+                "https://github.com/searxng/searxng",
+                "https://hub.docker.com/r/searxng/searxng"
             ],
             "title": "SearXNG",
             "train": "community",
-            "version": "1.4.28"
+            "version": "1.4.116"
         }
     }
 }

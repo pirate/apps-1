@@ -1,13 +1,13 @@
 {
-    "1.2.3": {
+    "1.2.18": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/lens/1.2.3",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/lens/1.2.18",
+        "last_update": "2026-09-15 13:38:13",
         "required_features": [],
-        "human_version": "backend-1.1.0_1.2.3",
-        "version": "1.2.3",
+        "human_version": "backend-1.1.0_1.2.18",
+        "version": "1.2.18",
         "app_metadata": {
             "app_version": "backend-1.1.0",
             "capabilities": [
@@ -42,8 +42,8 @@
                 "design",
                 "collaboration"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -103,12 +103,13 @@
                 "https://media.sys.truenas.net/apps/lens/screenshots/screenshot4.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/lens_community/",
                 "https://github.com/FreeCAD/Ondsel-Server",
                 "https://hub.docker.com/r/amrit3701/lens"
             ],
             "title": "Lens",
             "train": "community",
-            "version": "1.2.3"
+            "version": "1.2.18"
         },
         "schema": {
             "groups": [
@@ -1430,8 +1431,8 @@
                 "design",
                 "collaboration"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1491,12 +1492,13 @@
                 "https://media.sys.truenas.net/apps/lens/screenshots/screenshot4.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/lens_community/",
                 "https://github.com/FreeCAD/Ondsel-Server",
                 "https://hub.docker.com/r/amrit3701/lens"
             ],
             "title": "Lens",
             "train": "community",
-            "version": "1.2.3"
+            "version": "1.2.18"
         }
     }
 }

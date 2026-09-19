@@ -1,15 +1,15 @@
 {
-    "1.2.11": {
+    "1.2.36": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/concourse/1.2.11",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/concourse/1.2.36",
+        "last_update": "2026-09-16 20:03:13",
         "required_features": [],
-        "human_version": "8.1.1_1.2.11",
-        "version": "1.2.11",
+        "human_version": "8.3.0_1.2.36",
+        "version": "1.2.36",
         "app_metadata": {
-            "app_version": "8.1.1",
+            "app_version": "8.3.0",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -29,8 +29,8 @@
                 "automation",
                 "ci"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -64,13 +64,14 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/concourse_community/",
                 "https://concourse-ci.org",
                 "https://github.com/concourse/concourse",
                 "https://hub.docker.com/r/concourse/concourse"
             ],
             "title": "Concourse",
             "train": "community",
-            "version": "1.2.11"
+            "version": "1.2.36"
         },
         "schema": {
             "groups": [
@@ -139,7 +140,6 @@
                             {
                                 "variable": "db_password",
                                 "label": "Database Password",
-                                "description": "The password for Concourse Database.",
                                 "schema": {
                                     "type": "string",
                                     "default": "",
@@ -1511,7 +1511,7 @@
         "readme": "<h1>Concourse</h1> <p><a href=\"https://concourse-ci.org\">Concourse</a> is a container-based automation system written in Go.</p>",
         "changelog": null,
         "chart_metadata": {
-            "app_version": "8.1.1",
+            "app_version": "8.3.0",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -1531,8 +1531,8 @@
                 "automation",
                 "ci"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1566,13 +1566,14 @@
             ],
             "screenshots": [],
             "sources": [
+                "https://apps.truenas.com/catalog/concourse_community/",
                 "https://concourse-ci.org",
                 "https://github.com/concourse/concourse",
                 "https://hub.docker.com/r/concourse/concourse"
             ],
             "title": "Concourse",
             "train": "community",
-            "version": "1.2.11"
+            "version": "1.2.36"
         }
     }
 }

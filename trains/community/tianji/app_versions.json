@@ -1,15 +1,15 @@
 {
-    "1.2.16": {
+    "1.2.64": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/tianji/1.2.16",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/tianji/1.2.64",
+        "last_update": "2026-09-18 15:06:38",
         "required_features": [],
-        "human_version": "1.31.20_1.2.16",
-        "version": "1.2.16",
+        "human_version": "1.33.2_1.2.64",
+        "version": "1.2.64",
         "app_metadata": {
-            "app_version": "1.31.20",
+            "app_version": "1.33.2",
             "capabilities": [],
             "categories": [
                 "monitoring"
@@ -26,8 +26,8 @@
                 "uptime",
                 "status"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -61,11 +61,12 @@
                 "https://media.sys.truenas.net/apps/tianji/screenshots/screenshot6.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/tianji_community/",
                 "https://github.com/msgbyte/tianji"
             ],
             "title": "Tianji",
             "train": "community",
-            "version": "1.2.16"
+            "version": "1.2.64"
         },
         "schema": {
             "groups": [
@@ -134,7 +135,6 @@
                             {
                                 "variable": "db_password",
                                 "label": "Database Password",
-                                "description": "The password for Tianji.",
                                 "schema": {
                                     "type": "string",
                                     "default": "",
@@ -433,8 +433,7 @@
                         "attrs": [
                             {
                                 "variable": "postgres_data",
-                                "label": "Vaultwarden Postgres Data Storage",
-                                "description": "The path to store Vaultwarden Postgres Data.",
+                                "label": "Postgres Data Storage",
                                 "schema": {
                                     "type": "dict",
                                     "attrs": [
@@ -977,7 +976,7 @@
         "readme": "<h1>Tianji</h1> <p><a href=\"https://github.com/msgbyte/tianji\">Tianji</a> - Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives</p>",
         "changelog": null,
         "chart_metadata": {
-            "app_version": "1.31.20",
+            "app_version": "1.33.2",
             "capabilities": [],
             "categories": [
                 "monitoring"
@@ -994,8 +993,8 @@
                 "uptime",
                 "status"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1029,11 +1028,12 @@
                 "https://media.sys.truenas.net/apps/tianji/screenshots/screenshot6.png"
             ],
             "sources": [
+                "https://apps.truenas.com/catalog/tianji_community/",
                 "https://github.com/msgbyte/tianji"
             ],
             "title": "Tianji",
             "train": "community",
-            "version": "1.2.16"
+            "version": "1.2.64"
         }
     }
 }

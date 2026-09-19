@@ -1,18 +1,18 @@
 {
-    "1.6.7": {
+    "1.6.31": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/apps/apps/trains/community/gitea/1.6.7",
-        "last_update": "2026-04-03 12:46:56",
+        "location": "/__w/apps/apps/trains/community/gitea/1.6.31",
+        "last_update": "2026-09-16 20:03:13",
         "required_features": [],
-        "human_version": "1.25.5-rootless_1.6.7",
-        "version": "1.6.7",
+        "human_version": "1.27.3-rootless_1.6.31",
+        "version": "1.6.31",
         "app_metadata": {
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "1.25.5-rootless",
+            "app_version": "1.27.3-rootless",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -28,8 +28,8 @@
                 "gitea",
                 "source control"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -61,12 +61,13 @@
                 "https://media.sys.truenas.net/apps/gitea/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://gitea.io/en-us",
-                "https://docs.gitea.io/en-us/install-with-docker-rootless"
+                "https://apps.truenas.com/catalog/gitea_community/",
+                "https://docs.gitea.io/en-us/install-with-docker-rootless",
+                "https://gitea.io/en-us"
             ],
             "title": "Gitea",
             "train": "community",
-            "version": "1.6.7"
+            "version": "1.6.31"
         },
         "schema": {
             "groups": [
@@ -139,7 +140,6 @@
                             {
                                 "variable": "db_password",
                                 "label": "Database Password",
-                                "description": "The password for Gitea.",
                                 "schema": {
                                     "type": "string",
                                     "default": "",
@@ -1395,7 +1395,7 @@
             "annotations": {
                 "min_scale_version": "24.10.2.2"
             },
-            "app_version": "1.25.5-rootless",
+            "app_version": "1.27.3-rootless",
             "capabilities": [],
             "categories": [
                 "productivity"
@@ -1411,8 +1411,8 @@
                 "gitea",
                 "source control"
             ],
-            "lib_version": "2.3.1",
-            "lib_version_hash": "561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed",
+            "lib_version": "2.3.4",
+            "lib_version_hash": "2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242",
             "maintainers": [
                 {
                     "email": "dev@truenas.com",
@@ -1444,12 +1444,13 @@
                 "https://media.sys.truenas.net/apps/gitea/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://gitea.io/en-us",
-                "https://docs.gitea.io/en-us/install-with-docker-rootless"
+                "https://apps.truenas.com/catalog/gitea_community/",
+                "https://docs.gitea.io/en-us/install-with-docker-rootless",
+                "https://gitea.io/en-us"
             ],
             "title": "Gitea",
             "train": "community",
-            "version": "1.6.7"
+            "version": "1.6.31"
         }
     }
 }

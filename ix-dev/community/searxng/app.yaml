@@ -1,6 +1,6 @@
 annotations:
   min_scale_version: 24.10.2.2
-app_version: 2026.4.7-08ef7a63d
+app_version: 2026.9.18-12df7aed6
 capabilities:
 - description: SearXNG is able to change group ID of processes
   name: SETGID
@@ -16,8 +16,8 @@ host_mounts: []
 icon: https://media.sys.truenas.net/apps/searxng/icons/icon.svg
 keywords:
 - search
-lib_version: 2.3.1
-lib_version_hash: 561017357f22eafbedca2a97f747325cb83149fe1b5f765a2fbda71ab77d96ed
+lib_version: 2.3.4
+lib_version_hash: 2e3a8847308fb2eb0da046018f287c73822c094b5950a10377c3235794ff1242
 maintainers:
 - email: dev@truenas.com
   name: truenas
@@ -36,8 +36,9 @@ run_as_context:
   user_name: Host user is [root]
 screenshots: []
 sources:
-- https://hub.docker.com/r/searxng/searxng
+- https://apps.truenas.com/catalog/searxng_community/
 - https://github.com/searxng/searxng
+- https://hub.docker.com/r/searxng/searxng
 title: SearXNG
 train: community
-version: 1.4.28
+version: 1.4.116
