@@ -1,0 +1,80 @@
+ix-dev/community/archivebox/app.yaml
+  h_923c208e183a7b 1,3,5,7,9,11,15,35-36,54,56
+ix-dev/community/archivebox/ix_values.yaml
+  h_923c208e183a7b 4,13
+ix-dev/community/archivebox/questions.yaml
+  h_923c208e183a7b 22-42,64-66,68-76,295
+ix-dev/community/archivebox/templates/docker-compose.yaml
+  h_923c208e183a7b 3-12,14,18-33,45
+ix-dev/community/archivebox/templates/library/base_v2_3_13/container.py
+  h_923c208e183a7b 328,330,332-339
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps.py
+  h_923c208e183a7b 7-8,10,21-22,24,69-77
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_chromadb.py
+  h_923c208e183a7b 1-81
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_cron.py
+  h_923c208e183a7b 1-79
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_guacd.py
+  h_923c208e183a7b 1-64
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_mariadb.py
+  h_923c208e183a7b 49
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_meilisearch.py
+  h_923c208e183a7b 55
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_memcached.py
+  h_923c208e183a7b 63
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_postgres.py
+  h_923c208e183a7b 26,32-33,96,132,137-142,160,241-246
+ix-dev/community/archivebox/templates/library/base_v2_3_13/deps_redis.py
+  h_923c208e183a7b 88-94
+ix-dev/community/archivebox/templates/library/base_v2_3_13/devices.py
+  h_923c208e183a7b 45-52
+ix-dev/community/archivebox/templates/library/base_v2_3_13/functions.py
+  h_923c208e183a7b 210-215,230-232,260-261
+ix-dev/community/archivebox/templates/library/base_v2_3_13/healthcheck.py
+  h_923c208e183a7b 10,14,104,299-320
+ix-dev/community/archivebox/templates/library/base_v2_3_13/networks.py
+  h_923c208e183a7b 20,23-30,33,39
+ix-dev/community/archivebox/templates/library/base_v2_3_13/notes.py
+  h_923c208e183a7b 54-60,73-78,106,113,248,254,260
+ix-dev/community/archivebox/templates/library/base_v2_3_13/ports.py
+  h_923c208e183a7b 9,18,32-33,62,118-119,123-124,130-132
+ix-dev/community/archivebox/templates/library/base_v2_3_13/render.py
+  h_923c208e183a7b 78-81,85
+ix-dev/community/archivebox/templates/library/base_v2_3_13/storage.py
+  h_923c208e183a7b 103,107,112-136,140-141
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_deps.py
+  h_923c208e183a7b 40-43,56-62,69-72,84-90,97-99,102-103,106-109,111-113,115-126,174-177,189-199,206-207,210-280,286-345,359-362,373-379,386-389,402-405,416-422,429-431,434-437,443-445,447-458,511-514,527-533,540-543,555-562,568-570,573-576,580-591,598,639-650,680-713,721-727,736-742,753-759,766-777,796-802,809-815,818-820,822-824,831-837,840-842,845-847,868-871,884-887,899-905,911-913,926-931,940-943,955-961,967-969,976-979,991-997,1003-1005,1008-1011,1015-1026,1070-1073,1086-1092,1099-1102,1112-1118,1124-1126,1129-1132,1134-1137,1139-1150,1187,1195-1198,1209-1215,1236-1242,1248-1250,1253-1256,1258-1261,1263-1274,1325-1328,1340-1346,1364-1370,1376-1378,1381-1384,1388-1399,1436-1439,1446-1449,1460-1466,1473-1476,1489-1492,1494-1497,1499-1510,1532-1535,1539-1542,1555-1558,1572-1581,1583-1594,1616-1621,1625-1628
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_device.py
+  h_923c208e183a7b 78-87
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_functions.py
+  h_923c208e183a7b 178-179
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_healthcheck.py
+  h_923c208e183a7b 420-487
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_networks.py
+  h_923c208e183a7b 9-14,37-38,44-45,53-54,57,105-106,115,119,155,212-213,223,233,326
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_notes.py
+  h_923c208e183a7b 11,16,103,106,108,145,148,150,257-260,278,281,283,290,327-328,359-360,366-367
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_truenas_client.py
+  h_923c208e183a7b 1-220
+ix-dev/community/archivebox/templates/library/base_v2_3_13/tests/test_volumes.py
+  h_923c208e183a7b 654,658-666,671-673,679,683,688-689,696-705,709-793,800,806-813
+ix-dev/community/archivebox/templates/library/base_v2_3_13/truenas_client.py
+  h_923c208e183a7b 1,36-41,48-87,92-96,99-127
+ix-dev/community/archivebox/templates/library/base_v2_3_13/volumes.py
+  h_923c208e183a7b 37-43
+ix-dev/community/archivebox/templates/test_values/basic-values.yaml
+  h_923c208e183a7b 7-8,12-14,21
+ix-dev/community/archivebox/templates/test_values/host-path-values.yaml
+  h_923c208e183a7b 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93d5ecd122cda6d464a9be5a9954432a56a7e1db",
+  "prompts": {},
+  "humans": {
+    "h_923c208e183a7b": {
+      "author": "Nick Sweeting <git@sweeting.me>"
+    }
+  }
+}
