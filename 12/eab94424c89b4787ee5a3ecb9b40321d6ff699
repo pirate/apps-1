@@ -1,0 +1,18 @@
+ix-dev/community/archivebox/questions.yaml
+  h_923c208e183a7b 24,179
+ix-dev/community/archivebox/templates/test_values/basic-values.yaml
+  h_923c208e183a7b 7,21
+ix-dev/community/archivebox/templates/test_values/host-path-values.yaml
+  h_923c208e183a7b 7,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12eab94424c89b4787ee5a3ecb9b40321d6ff699",
+  "prompts": {},
+  "humans": {
+    "h_923c208e183a7b": {
+      "author": "Nick Sweeting <git@sweeting.me>"
+    }
+  }
+}
